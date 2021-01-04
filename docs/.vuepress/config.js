@@ -3,7 +3,7 @@ module.exports = {
     title: 'my-doc',  // 设置网站标题
     dest: './dist',    // 设置输出目录
     base: '/my-doc/', // 设置站点根路径
-    repo: 'https://github.com/ov100/my-doc', // 添加 github 链接
+    repo: 'https://github.com/ov100/ov100.github.io.git', // 添加 github 链接
     themeConfig: {
         // 添加导航栏
         nav: [
